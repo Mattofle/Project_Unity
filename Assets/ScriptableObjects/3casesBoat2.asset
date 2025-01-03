@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42dbd8b711b03124cab1fe782189c556, type: 3}
+  m_Name: 3casesBoat2
+  m_EditorClassIdentifier: 
+  boatPrefab: {fileID: 389685665148467220, guid: f420cdd820ed36549b1f11c7773c92b4, type: 3}
+  boatSprite: {fileID: 21300000, guid: 04a8e110cd5411d4f9cc3043ca93a4cf, type: 3}
+  boatName: Bateau de l'espace
+  boatSize: 3
+  maxPlacement: 1
+  currentPosition: A1
+  isHorizontal: 0

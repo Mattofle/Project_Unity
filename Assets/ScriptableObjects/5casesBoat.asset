@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42dbd8b711b03124cab1fe782189c556, type: 3}
+  m_Name: 5casesBoat
+  m_EditorClassIdentifier: 
+  boatPrefab: {fileID: 5856770657197250719, guid: 65cdf122997d50d4ebe1335fda600ccf, type: 3}
+  boatSprite: {fileID: 21300000, guid: d1fc2f1f50520d74688cd11640513539, type: 3}
+  boatName: "Bateau de croisi\xE8re"
+  boatSize: 5
+  maxPlacement: 1
+  currentPosition: A1
+  isHorizontal: 0

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42dbd8b711b03124cab1fe782189c556, type: 3}
+  m_Name: 4caseBoat
+  m_EditorClassIdentifier: 
+  boatPrefab: {fileID: 7194486721374193173, guid: 0dc6aa51df51dfa4b9d09b50d24cd0ce, type: 3}
+  boatSprite: {fileID: 21300000, guid: 5048428ca3110a242bd616f4a84dc483, type: 3}
+  boatName: "Bateau de p\xEAche"
+  boatSize: 4
+  maxPlacement: 1
+  currentPosition: A1
+  isHorizontal: 0
